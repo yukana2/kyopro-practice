@@ -3,7 +3,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
 /**
- * <a href="https://atcoder.jp/contests/abc264/tasks/abc258_a">
+ * <a href="https://atcoder.jp/contests/abc258/tasks/abc258_a">
  * AtCoder Beginner Contest 258 | A - When?
  * </a>
  */

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * <a href="https://atcoder.jp/contests/abc264/tasks/abc257_a">
+ * <a href="https://atcoder.jp/contests/abc257/tasks/abc257_a">
  * AtCoder Beginner Contest 257 | A - A to Z String 2
  * </a>
  */

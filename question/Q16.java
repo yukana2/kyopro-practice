@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * <a href="https://atcoder.jp/contests/abc264/tasks/abc254_a">
+ * <a href="https://atcoder.jp/contests/abc254/tasks/abc254_a">
  * AtCoder Beginner Contest 254 | A - Last Two Digits
  * </a>
  */

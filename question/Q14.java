@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * <a href="https://atcoder.jp/contests/abc264/tasks/abc256_a">
+ * <a href="https://atcoder.jp/contests/abc256/tasks/abc256_a">
  * AtCoder Beginner Contest 256 | A - 2^N
  * </a>
  */

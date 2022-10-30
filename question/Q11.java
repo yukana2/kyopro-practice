@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * <a href="https://atcoder.jp/contests/abc264/tasks/abc259_a">
+ * <a href="https://atcoder.jp/contests/abc259/tasks/abc259_a">
  * AtCoder Beginner Contest 259 | A - Growth Record
  * </a>
  */

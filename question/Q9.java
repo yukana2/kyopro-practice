@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * <a href="https://atcoder.jp/contests/abc264/tasks/abc262_a">
+ * <a href="https://atcoder.jp/contests/abc262/tasks/abc262_a">
  * AtCoder Beginner Contest 262 | A - World Cup
  * </a>
  */

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * <a href="https://atcoder.jp/contests/abc274/tasks/abc273_b">
+ * <a href="https://atcoder.jp/contests/abc273/tasks/abc273_b">
  * AtCoder Beginner Contest 273 | B - Broken Rounding
  * </a>
  */

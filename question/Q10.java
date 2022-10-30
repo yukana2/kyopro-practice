@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * <a href="https://atcoder.jp/contests/abc264/tasks/abc261_a">
+ * <a href="https://atcoder.jp/contests/abc261/tasks/abc261_a">
  * AtCoder Beginner Contest 261 | A - Intersection
  * </a>
  */

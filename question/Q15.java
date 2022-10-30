@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * <a href="https://atcoder.jp/contests/abc264/tasks/abc255_a">
+ * <a href="https://atcoder.jp/contests/abc255/tasks/abc255_a">
  * AtCoder Beginner Contest 255 | A - You should output ARC, though this is ABC.
  * </a>
  */

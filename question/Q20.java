@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * <a href="https://atcoder.jp/contests/abc272/tasks/abc271_b">
+ * <a href="https://atcoder.jp/contests/abc271/tasks/abc271_b">
  * AtCoder Beginner Contest 271 | B - Maintain Multiple Sequences
  * </a>
  */
