@@ -3,8 +3,8 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 
 /**
- * <a href="https://atcoder.jp/contests/abc275/tasks/abc275_b">
- * AtCoder Beginner Contest 275 | B - Counting Squares
+ * <a href="https://atcoder.jp/contests/abc212/tasks/abc212_b">
+ * AtCoder Beginner Contest 212 | B - Weak Password
  * </a>
  */
 public class Q79 {
